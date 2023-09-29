@@ -11,9 +11,6 @@ sites:
     url: https://www.alqathamirec.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-    NOTIFICATION_SLACK: true
-    NOTIFICATION_SLACK_WEBHOOK: true
-    NOTIFICATION_SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
     
 
     
