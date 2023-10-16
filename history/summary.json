@@ -40,19 +40,19 @@
     "url": "https://www.alqathamirec.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alqathamirec.com.ico",
     "slug": "alqathamirecrt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1745,
-    "timeDay": 1754,
-    "timeWeek": 1909,
-    "timeMonth": 1745,
-    "timeYear": 1745,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1774,
+    "timeDay": 2022,
+    "timeWeek": 1981,
+    "timeMonth": 1774,
+    "timeYear": 1774,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-16": 35
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 596,
+      "2023-10-16": 632,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
