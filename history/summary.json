@@ -40,9 +40,9 @@
     "url": "https://www.alqathamirec.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alqathamirec.com.ico",
     "slug": "alqathamirecrt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1909,
     "timeMonth": 1745,
     "timeYear": 1745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 125,
+      "2023-10-16": 596,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
