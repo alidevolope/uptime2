@@ -40,7 +40,7 @@
     "url": "https://www.alqathamirec.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alqathamirec.com.ico",
     "slug": "alqathamirecrt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "98.05%",
     "uptimeWeek": "99.17%",
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1347,
+      "2023-10-24": 1358,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
